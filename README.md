@@ -35,13 +35,4 @@ To run this website locally, follow these steps:
 
 3. Explore the variety of fresh vegetables available on our website.
 
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Your contributions are welcome!
-
-1. Fork the project.
-2. Create your feature branch: `git checkout -b feature/YourFeature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/YourFeature`
-5. Open a pull request.
 
