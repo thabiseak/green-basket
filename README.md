@@ -28,7 +28,7 @@ To run this website locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Thabiseak/Vegetable-Shop.git
+   git clone https://github.com/thabiseak/vegetable-shop.git
    ```
 
 2. Open the `index.html` file in your preferred web browser.
